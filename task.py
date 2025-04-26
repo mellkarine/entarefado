@@ -26,9 +26,3 @@ def removeTask(number):
 
     else:
         print("Tarefa não encontrada. Tente novamente, entarefado!")
-
-addTask("Estudar Python")
-addTask("Fazer exercícios")
-listTask()
-removeTask(1)
-listTask()
