@@ -1,4 +1,3 @@
-```markdown
 # Entarefado 2.0 🤖
 
 **Entarefado 2.0** é um chatbot interativo para gerenciar suas tarefas diárias, ajudando você a adicionar, listar, concluir ou apagar tarefas. Através de uma interface simples de linha de comando, o usuário pode interagir com o bot para organizar seus afazeres de maneira eficiente.
