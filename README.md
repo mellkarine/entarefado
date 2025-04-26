@@ -79,18 +79,3 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ---
 
 Feito com ❤️ por Mell Karine.
-
-```
-
-### Explicação:
-
-- **Introdução**: Uma breve descrição do propósito do projeto.
-- **Funcionalidades**: O que o chatbot pode fazer.
-- **Instruções de uso**: Como clonar, executar e interagir com o projeto.
-- **Comandos disponíveis**: Uma explicação de cada comando.
-- **Exemplo de uso**: Um exemplo para ilustrar a interação com o bot.
-- **Tecnologias utilizadas**: Lista das tecnologias e módulos usados.
-- **Como contribuir**: Instruções para quem deseja contribuir com o projeto.
-- **Licença**: Indicação da licença MIT para o uso do código.
-
-Com isso, qualquer pessoa que acessar o repositório terá uma ideia clara do que o projeto faz e como utilizá-lo. Se precisar de mais alguma coisa, estou à disposição!
